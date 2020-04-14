@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlaUI_NotebookApp", "FlaUI_NotebookApp.csproj", "{27BC291F-7943-4291-8B3F-27C93B30B59A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27BC291F-7943-4291-8B3F-27C93B30B59A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27BC291F-7943-4291-8B3F-27C93B30B59A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27BC291F-7943-4291-8B3F-27C93B30B59A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27BC291F-7943-4291-8B3F-27C93B30B59A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA01E442-9B28-4639-916E-1A2C9F3B1EA3}
+	EndGlobalSection
+EndGlobal
